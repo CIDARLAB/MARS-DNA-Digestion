@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="135mm"
+   height="85mm"
+   viewBox="0 0 135000 85000"
+   version="1.1"
+   id="svg193"
+   sodipodi:docname="Control_Ports.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata197">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview195"
+     showgrid="false"
+     inkscape:zoom="1.5909466"
+     inkscape:cx="243.21868"
+     inkscape:cy="165.75789"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg193" />
+  <defs
+     id="defs77">
+    <radialGradient
+       cx="47900"
+       cy="26900"
+       r="150"
+       gradientUnits="userSpaceOnUse"
+       id="color-1">
+      <stop
+         offset="1"
+         stop-color="#f44336"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop4" />
+    </radialGradient>
+    <radialGradient
+       cx="38180"
+       cy="36530"
+       r="150"
+       gradientUnits="userSpaceOnUse"
+       id="color-2">
+      <stop
+         offset="1"
+         stop-color="#f44336"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop9" />
+    </radialGradient>
+    <radialGradient
+       cx="40500"
+       cy="27000"
+       r="150"
+       gradientUnits="userSpaceOnUse"
+       id="color-3">
+      <stop
+         offset="1"
+         stop-color="#f44336"
+         id="stop12" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop14" />
+    </radialGradient>
+    <radialGradient
+       cx="35400"
+       cy="27000"
+       r="150"
+       gradientUnits="userSpaceOnUse"
+       id="color-4">
+      <stop
+         offset="1"
+         stop-color="#f44336"
+         id="stop17" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop19" />
+    </radialGradient>
+    <radialGradient
+       cx="32400"
+       cy="27000"
+       r="150"
+       gradientUnits="userSpaceOnUse"
+       id="color-5">
+      <stop
+         offset="1"
+         stop-color="#f44336"
+         id="stop22" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop24" />
+    </radialGradient>
+    <radialGradient
+       cx="27600"
+       cy="15700"
+       r="125"
+       gradientUnits="userSpaceOnUse"
+       id="color-6">
+      <stop
+         offset="1"
+         stop-color="#f44336"
+         id="stop27" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop29" />
+    </radialGradient>
+    <radialGradient
+       cx="24900"
+       cy="28400"
+       r="125"
+       gradientUnits="userSpaceOnUse"
+       id="color-7">
+      <stop
+         offset="1"
+         stop-color="#f44336"
+         id="stop32" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop34" />
+    </radialGradient>
+    <radialGradient
+       cx="44600"
+       cy="14400"
+       r="125"
+       gradientUnits="userSpaceOnUse"
+       id="color-8">
+      <stop
+         offset="1"
+         stop-color="#f44336"
+         id="stop37" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop39" />
+    </radialGradient>
+    <radialGradient
+       cx="44590"
+       cy="19600"
+       r="125"
+       gradientUnits="userSpaceOnUse"
+       id="color-9">
+      <stop
+         offset="1"
+         stop-color="#f44336"
+         id="stop42" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop44" />
+    </radialGradient>
+    <radialGradient
+       cx="33900"
+       cy="18700"
+       r="125"
+       gradientUnits="userSpaceOnUse"
+       id="color-10">
+      <stop
+         offset="1"
+         stop-color="#f44336"
+         id="stop47" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop49" />
+    </radialGradient>
+    <radialGradient
+       cx="52900"
+       cy="32800"
+       r="2020"
+       gradientUnits="userSpaceOnUse"
+       id="color-11">
+      <stop
+         offset="1"
+         stop-color="#ef5350"
+         id="stop52" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop54" />
+    </radialGradient>
+    <radialGradient
+       cx="44000"
+       cy="48000"
+       r="2020"
+       gradientUnits="userSpaceOnUse"
+       id="color-12">
+      <stop
+         offset="1"
+         stop-color="#ef5350"
+         id="stop57" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop59" />
+    </radialGradient>
+    <radialGradient
+       cx="27400"
+       cy="4300"
+       r="2020"
+       gradientUnits="userSpaceOnUse"
+       id="color-13">
+      <stop
+         offset="1"
+         stop-color="#ef5350"
+         id="stop62" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop64" />
+    </radialGradient>
+    <radialGradient
+       cx="55000"
+       cy="5000"
+       r="2020"
+       gradientUnits="userSpaceOnUse"
+       id="color-14">
+      <stop
+         offset="1"
+         stop-color="#ef5350"
+         id="stop67" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop69" />
+    </radialGradient>
+    <radialGradient
+       cx="17000"
+       cy="36000"
+       r="2020"
+       gradientUnits="userSpaceOnUse"
+       id="color-15">
+      <stop
+         offset="1"
+         stop-color="#ef5350"
+         id="stop72" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop74" />
+    </radialGradient>
+  </defs>
+  <g
+     stroke-width="none"
+     stroke-miterlimit="10"
+     font-weight="normal"
+     font-size="12"
+     mix-blend-mode="normal"
+     id="g191"
+     transform="matrix(-1,0,0,1,135000,0)"
+     style="font-weight:normal;font-size:12px;font-family:sans-serif;text-anchor:start;mix-blend-mode:normal;fill:none;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+    <polygon
+       points="47900,26775 47900,26775 47900,27025 "
+       id="polygon107"
+       style="fill:#b71c1c;stroke-width:0" />
+    <polygon
+       points="44000,22875 44000,22875 44000,23125 "
+       id="polygon151"
+       style="fill:#b71c1c;stroke-width:0" />
+    <path
+       d="m 50880,32800 c 0,-1115.615 904.385,-2020 2020,-2020 1115.615,0 2020,904.385 2020,2020 0,1115.615 -904.385,2020 -2020,2020 -1115.615,0 -2020,-904.385 -2020,-2020 z"
+       id="path181"
+       style="fill:url(#color-11);stroke-width:1"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 41980,48000 c 0,-1115.615 904.385,-2020 2020,-2020 1115.615,0 2020,904.385 2020,2020 0,1115.615 -904.385,2020 -2020,2020 -1115.615,0 -2020,-904.385 -2020,-2020 z"
+       id="path183"
+       style="fill:url(#color-12);stroke-width:1"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 25380,4300 c 0,-1115.6152 904.385,-2020 2020,-2020 1115.615,0 2020,904.3848 2020,2020 0,1115.6152 -904.385,2020 -2020,2020 -1115.615,0 -2020,-904.3848 -2020,-2020 z"
+       id="path185"
+       style="fill:url(#color-13);stroke-width:1"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 52980,5000 c 0,-1115.6152 904.385,-2020 2020,-2020 1115.615,0 2020,904.3848 2020,2020 0,1115.6152 -904.385,2020 -2020,2020 -1115.615,0 -2020,-904.3848 -2020,-2020 z"
+       id="path187"
+       style="fill:url(#color-14);stroke-width:1"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 14980,36000 c 0,-1115.615 904.385,-2020 2020,-2020 1115.615,0 2020,904.385 2020,2020 0,1115.615 -904.385,2020 -2020,2020 -1115.615,0 -2020,-904.385 -2020,-2020 z"
+       id="path189"
+       style="fill:url(#color-15);stroke-width:1"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="135mm"
+   height="85mm"
+   viewBox="0 0 135000 85000"
+   version="1.1"
+   id="svg255"
+   sodipodi:docname="F_500_64.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata259">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview257"
+     showgrid="false"
+     inkscape:zoom="1.5909466"
+     inkscape:cx="274.8495"
+     inkscape:cy="199.46972"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg255" />
+  <defs
+     id="defs87">
+    <radialGradient
+       cx="47100"
+       cy="14500"
+       r="150"
+       gradientUnits="userSpaceOnUse"
+       id="color-1">
+      <stop
+         offset="1"
+         stop-color="#3f51b5"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop4" />
+    </radialGradient>
+    <radialGradient
+       cx="34800"
+       cy="16700"
+       r="150"
+       gradientUnits="userSpaceOnUse"
+       id="color-2">
+      <stop
+         offset="1"
+         stop-color="#3f51b5"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop9" />
+    </radialGradient>
+    <radialGradient
+       cx="23000"
+       cy="16000"
+       r="150"
+       gradientUnits="userSpaceOnUse"
+       id="color-3">
+      <stop
+         offset="1"
+         stop-color="#3f51b5"
+         id="stop12" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop14" />
+    </radialGradient>
+    <radialGradient
+       cx="39800"
+       cy="30500"
+       r="150"
+       gradientUnits="userSpaceOnUse"
+       id="color-4">
+      <stop
+         offset="1"
+         stop-color="#3f51b5"
+         id="stop17" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop19" />
+    </radialGradient>
+    <radialGradient
+       cx="31700"
+       cy="31000"
+       r="150"
+       gradientUnits="userSpaceOnUse"
+       id="color-5">
+      <stop
+         offset="1"
+         stop-color="#3f51b5"
+         id="stop22" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop24" />
+    </radialGradient>
+    <radialGradient
+       cx="33100"
+       cy="21100"
+       r="150"
+       gradientUnits="userSpaceOnUse"
+       id="color-6">
+      <stop
+         offset="1"
+         stop-color="#3f51b5"
+         id="stop27" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop29" />
+    </radialGradient>
+    <radialGradient
+       cx="87900"
+       cy="25100"
+       r="250"
+       gradientUnits="userSpaceOnUse"
+       id="color-7">
+      <stop
+         offset="1"
+         stop-color="#3f51b5"
+         id="stop32" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop34" />
+    </radialGradient>
+    <radialGradient
+       cx="83300"
+       cy="25100"
+       r="250"
+       gradientUnits="userSpaceOnUse"
+       id="color-8">
+      <stop
+         offset="1"
+         stop-color="#3f51b5"
+         id="stop37" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop39" />
+    </radialGradient>
+    <radialGradient
+       cx="32000"
+       cy="10000"
+       r="1010"
+       gradientUnits="userSpaceOnUse"
+       id="color-9">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop42" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop44" />
+    </radialGradient>
+    <radialGradient
+       cx="58800"
+       cy="14400"
+       r="1010"
+       gradientUnits="userSpaceOnUse"
+       id="color-10">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop47" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop49" />
+    </radialGradient>
+    <radialGradient
+       cx="36400"
+       cy="46800"
+       r="1010"
+       gradientUnits="userSpaceOnUse"
+       id="color-11">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop52" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop54" />
+    </radialGradient>
+    <radialGradient
+       cx="41400"
+       cy="4500"
+       r="2020"
+       gradientUnits="userSpaceOnUse"
+       id="color-12">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop57" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop59" />
+    </radialGradient>
+    <radialGradient
+       cx="21000"
+       cy="45000"
+       r="1010"
+       gradientUnits="userSpaceOnUse"
+       id="color-13">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop62" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop64" />
+    </radialGradient>
+    <radialGradient
+       cx="52000"
+       cy="44000"
+       r="2020"
+       gradientUnits="userSpaceOnUse"
+       id="color-14">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop67" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop69" />
+    </radialGradient>
+    <radialGradient
+       cx="17800"
+       cy="8400"
+       r="2020"
+       gradientUnits="userSpaceOnUse"
+       id="color-15">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop72" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop74" />
+    </radialGradient>
+    <radialGradient
+       cx="17000"
+       cy="25000"
+       r="2020"
+       gradientUnits="userSpaceOnUse"
+       id="color-16">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop77" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop79" />
+    </radialGradient>
+    <radialGradient
+       cx="87900"
+       cy="37600"
+       r="1000"
+       gradientUnits="userSpaceOnUse"
+       id="color-17">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop82" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop84" />
+    </radialGradient>
+  </defs>
+  <g
+     fill="none"
+     stroke="none"
+     stroke-width="none"
+     stroke-linecap="butt"
+     stroke-linejoin="miter"
+     stroke-miterlimit="10"
+     stroke-dasharray=""
+     stroke-dashoffset="0"
+     font-family="sans-serif"
+     font-weight="normal"
+     font-size="12"
+     text-anchor="start"
+     mix-blend-mode="normal"
+     id="g253">
+    <polygon
+       points="40000,40400 40000,39600 40000,39600 40000,40400"
+       fill="#1a237e"
+       stroke-width="0"
+       id="polygon93" />
+    <polygon
+       points="20000,44150 20000,43850 20000,43850 20000,44150"
+       fill="#1a237e"
+       stroke-width="0"
+       id="polygon99" />
+    <polygon
+       points="31000,10150 31000,9850 31000,9850 31000,10150"
+       fill="#1a237e"
+       stroke-width="0"
+       id="polygon103" />
+    <polygon
+       points="33100,21250 33100,20950 33100,20950 33100,21250"
+       fill="#1a237e"
+       stroke-width="0"
+       id="polygon111" />
+    <polygon
+       points="16999.66733,25249.99978 17000.33267,24750.00022 32030.33267,24770.00022 32029.66733,25269.99978"
+       fill="#1a237e"
+       stroke-width="0"
+       id="polygon115" />
+    <polygon
+       points="87650,34700 88150,34700 90150,37700 88150,40700 87650,40700 85650,37700"
+       fill="#1a237e"
+       stroke-width="1"
+       id="polygon163" />
+    <polygon
+       points="87650,33000 88150,33000 88150,36000 87650,36000"
+       fill="#1a237e"
+       stroke-width="0"
+       id="polygon165" />
+    <path
+       d="M87500,33100.5c-0.27614,0 -0.5,-0.22386 -0.5,-0.5l0,-300c0,-0.27614 0.22386,-0.5 0.5,-0.5l800,0c0.27614,0 0.5,0.22386 0.5,0.5l0,300c0,0.27614 -0.22386,0.5 -0.5,0.5z"
+       fill="#1a237e"
+       stroke-width="0"
+       id="path167" />
+    <path
+       d="M87500,32500.5c-0.27614,0 -0.5,-0.22386 -0.5,-0.5l0,-300c0,-0.27614 0.22386,-0.5 0.5,-0.5l800,0c0.27614,0 0.5,0.22386 0.5,0.5l0,300c0,0.27614 -0.22386,0.5 -0.5,0.5z"
+       fill="#1a237e"
+       stroke-width="0"
+       id="path169" />
+    <polygon
+       points="87650,25100 88150,25100 88150,32300 87650,32300"
+       fill="#1a237e"
+       stroke-width="0"
+       id="polygon171" />
+    <polygon
+       points="83300,25350 83300,24850 87900,24850 87900,25350"
+       fill="#1a237e"
+       stroke-width="0"
+       id="polygon173" />
+    <polygon
+       points="48300.76923,25249.99882 48299.23077,24750.00118 51549.23077,24740.00118 51550.76923,25239.99882"
+       fill="#1a237e"
+       stroke-width="0"
+       id="polygon175" />
+    <polygon
+       points="41640,24750 41640,25250 44100,26480 46560,25250 46560,24750 44100,23520"
+       fill="#1a237e"
+       stroke-width="1"
+       id="polygon177" />
+    <polygon
+       points="47600,24750 47600,25250 46500,25250 46500,24750"
+       fill="#1a237e"
+       stroke-width="0"
+       id="polygon179" />
+    <polygon
+       points="40800,25250 40800,24750 42300,24750 42300,25250"
+       fill="#1a237e"
+       stroke-width="0"
+       id="polygon181" />
+    <path
+       style="fill:#1a237e;stroke-width:0.00377953"
+       d="M 192.94531 88.251953 L 192.94531 94.791016 L 194.83398 94.791016 L 194.83398 90.142578 L 200.50391 90.142578 L 200.50391 101.33008 L 202.39453 101.33008 L 209.95312 101.33008 L 209.95312 99.439453 L 209.95312 90.142578 L 215.62109 90.142578 L 215.62109 101.33008 L 217.51172 101.33008 L 225.07031 101.33008 L 225.07031 99.439453 L 225.07031 90.142578 L 230.74023 90.142578 L 230.74023 101.33008 L 232.63086 101.33008 L 240.18945 101.33008 L 240.18945 99.439453 L 240.18945 90.142578 L 245.85742 90.142578 L 245.85742 101.33008 L 247.74805 101.33008 L 255.30664 101.33008 L 255.30664 99.439453 L 255.30664 90.142578 L 260.97656 90.142578 L 260.97656 101.33008 L 262.86523 101.33008 L 270.42578 101.33008 L 270.42578 99.439453 L 270.42578 90.142578 L 276.09375 90.142578 L 276.09375 101.33008 L 277.98438 101.33008 L 285.54297 101.33008 L 285.54297 99.439453 L 285.54297 90.142578 L 291.21289 90.142578 L 291.21289 101.33008 L 293.10156 101.33008 L 300.66211 101.33008 L 300.66211 99.439453 L 300.66211 90.142578 L 306.33008 90.142578 L 306.33008 101.33008 L 308.2207 101.33008 L 315.7793 101.33008 L 315.7793 99.439453 L 315.7793 94.791016 L 313.89062 94.791016 L 313.89062 99.439453 L 308.2207 99.439453 L 308.2207 90.142578 L 308.2207 88.251953 L 300.66211 88.251953 L 298.77148 88.251953 L 298.77148 99.439453 L 293.10156 99.439453 L 293.10156 90.142578 L 293.10156 88.251953 L 285.54297 88.251953 L 283.6543 88.251953 L 283.6543 99.439453 L 277.98438 99.439453 L 277.98438 90.142578 L 277.98438 88.251953 L 270.42578 88.251953 L 268.53516 88.251953 L 268.53516 99.439453 L 262.86523 99.439453 L 262.86523 90.142578 L 262.86523 88.251953 L 255.30664 88.251953 L 253.41797 88.251953 L 253.41797 99.439453 L 247.74805 99.439453 L 247.74805 90.142578 L 247.74805 88.251953 L 240.18945 88.251953 L 238.29883 88.251953 L 238.29883 99.439453 L 232.63086 99.439453 L 232.63086 90.142578 L 232.63086 88.251953 L 225.07031 88.251953 L 223.18164 88.251953 L 223.18164 99.439453 L 217.51172 99.439453 L 217.51172 90.142578 L 217.51172 88.251953 L 209.95312 88.251953 L 208.0625 88.251953 L 208.0625 99.439453 L 202.39453 99.439453 L 202.39453 90.142578 L 202.39453 88.251953 L 194.83398 88.251953 L 192.94531 88.251953 z "
+       transform="scale(264.58333)"
+       id="path183" />
+    <path
+       d="M48100,25400.5c-0.27614,0 -0.5,-0.22386 -0.5,-0.5l0,-800c0,-0.27614 0.22386,-0.5 0.5,-0.5l300,0c0.27614,0 0.5,0.22386 0.5,0.5l0,800c0,0.27614 -0.22386,0.5 -0.5,0.5z"
+       fill="#1a237e"
+       stroke-width="0"
+       id="path185" />
+    <path
+       d="M47500,25400.5c-0.27614,0 -0.5,-0.22386 -0.5,-0.5l0,-800c0,-0.27614 0.22386,-0.5 0.5,-0.5l300,0c0.27614,0 0.5,0.22386 0.5,0.5l0,800c0,0.27614 -0.22386,0.5 -0.5,0.5z"
+       fill="#1a237e"
+       stroke-width="0"
+       id="path187" />
+    <path
+       d="M40600,25400.5c-0.27614,0 -0.5,-0.22386 -0.5,-0.5l0,-800c0,-0.27614 0.22386,-0.5 0.5,-0.5l300,0c0.27614,0 0.5,0.22386 0.5,0.5l0,800c0,0.27614 -0.22386,0.5 -0.5,0.5z"
+       fill="#1a237e"
+       stroke-width="0"
+       id="path189" />
+    <path
+       d="M40000,25400.5c-0.27614,0 -0.5,-0.22386 -0.5,-0.5l0,-800c0,-0.27614 0.22386,-0.5 0.5,-0.5l300,0c0.27614,0 0.5,0.22386 0.5,0.5l0,800c0,0.27614 -0.22386,0.5 -0.5,0.5z"
+       fill="#1a237e"
+       stroke-width="0"
+       id="path191" />
+    <polygon
+       points="35800,25250 35800,24750 40100,24750 40100,25250"
+       fill="#1a237e"
+       stroke-width="0"
+       id="polygon193" />
+    <path
+       d="M35600,25400.5c-0.27614,0 -0.5,-0.22386 -0.5,-0.5l0,-800c0,-0.27614 0.22386,-0.5 0.5,-0.5l300,0c0.27614,0 0.5,0.22386 0.5,0.5l0,800c0,0.27614 -0.22386,0.5 -0.5,0.5z"
+       fill="#1a237e"
+       stroke-width="0"
+       id="path195" />
+    <path
+       d="M35000,25400.5c-0.27614,0 -0.5,-0.22386 -0.5,-0.5l0,-800c0,-0.27614 0.22386,-0.5 0.5,-0.5l300,0c0.27614,0 0.5,0.22386 0.5,0.5l0,800c0,0.27614 -0.22386,0.5 -0.5,0.5z"
+       fill="#1a237e"
+       stroke-width="0"
+       id="path197" />
+    <polygon
+       points="32800,25250 32800,24750 35100,24750 35100,25250"
+       fill="#1a237e"
+       stroke-width="0"
+       id="polygon199" />
+    <polygon
+       points="35000,25250 35000,24750 35000,24750 35000,25250"
+       fill="#1a237e"
+       stroke-width="0"
+       id="polygon201" />
+    <path
+       d="M32600,25400.5c-0.27614,0 -0.5,-0.22386 -0.5,-0.5l0,-800c0,-0.27614 0.22386,-0.5 0.5,-0.5l300,0c0.27614,0 0.5,0.22386 0.5,0.5l0,800c0,0.27614 -0.22386,0.5 -0.5,0.5z"
+       fill="#1a237e"
+       stroke-width="0"
+       id="path207" />
+    <path
+       d="M32000,25400.5c-0.27614,0 -0.5,-0.22386 -0.5,-0.5l0,-800c0,-0.27614 0.22386,-0.5 0.5,-0.5l300,0c0.27614,0 0.5,0.22386 0.5,0.5l0,800c0,0.27614 -0.22386,0.5 -0.5,0.5z"
+       fill="#1a237e"
+       stroke-width="0"
+       id="path209" />
+    <path
+       d="M87650,25100c0,-138.07119 111.92881,-250 250,-250c138.07119,0 250,111.92881 250,250c0,138.07119 -111.92881,250 -250,250c-138.07119,0 -250,-111.92881 -250,-250z"
+       fill="url(#color-7)"
+       stroke-width="1"
+       id="path231" />
+    <path
+       d="M83050,25100c0,-138.07119 111.92881,-250 250,-250c138.07119,0 250,111.92881 250,250c0,138.07119 -111.92881,250 -250,250c-138.07119,0 -250,-111.92881 -250,-250z"
+       fill="url(#color-8)"
+       stroke-width="1"
+       id="path233" />
+  </g>
+</svg>
